@@ -7,7 +7,8 @@
     <provides>
       <id>java16</id>
       <version>6</version>
-      <vendor>oracle</vendor>
+      <vendor>oracle</venhttp://maven.apache.org/TOOLCHAINS/1.1.0
+        dor>
     </provides>
     <configuration>
       <jdkHome>C:\Program Files\Java\jdk1.6.0</jdkHome>
